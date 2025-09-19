@@ -8,7 +8,7 @@ export function ContactSection() {
     {
       name: "GitHub",
       icon: GithubIcon,
-      url: "https://github.com/vaideeswaran23",
+      url: "https://github.com/vaidee-codes",
       description: "View my code and projects"
     },
     {

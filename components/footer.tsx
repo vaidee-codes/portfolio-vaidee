@@ -78,7 +78,7 @@ export function Footer() {
               </Button>
               <Button variant="outline" size="icon" asChild>
                 <a
-                  href="https://github.com/vaideeswaran23"
+                  href="https://github.com/vaidee-codes"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
