@@ -20,7 +20,7 @@ export function ContactSection() {
     {
       name: "Twitter",
       icon: TwitterIcon,
-      url: "https://x.com/vaideeswaran23",
+      url: "https://x.com/vaidee_tweets",
       description: "Follow me on X (Twitter)"
     },
     {

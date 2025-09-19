@@ -88,7 +88,7 @@ export function Footer() {
               </Button>
               <Button variant="outline" size="icon" asChild>
                 <a
-                  href="https://x.com/vaideeswaran23"
+                  href="https://x.com/vaidee_tweets"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Twitter"
