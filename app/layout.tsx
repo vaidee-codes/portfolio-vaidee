@@ -10,14 +10,14 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Vaideeswaran Chandrasekaran - Senior Software Developer",
   description:
-    "Senior Software Developer with 6+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies. Building scalable solutions at Morgan Stanley.",
+    "Senior Software Developer with 7+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies. Building scalable solutions at Morgan Stanley.",
   keywords: "Software Developer, Java, Spring Boot, Microservices, Cloud, AWS, Full Stack Developer",
   authors: [{ name: "Vaideeswaran Chandrasekaran" }],
   creator: "Vaideeswaran Chandrasekaran",
   openGraph: {
     title: "Vaideeswaran Chandrasekaran - Senior Software Developer",
     description:
-      "Senior Software Developer with 6+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies.",
+      "Senior Software Developer with 7+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies.",
     url: "https://vaideeswaran.dev",
     siteName: "Vaideeswaran Chandrasekaran Portfolio",
     type: "website",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Vaideeswaran Chandrasekaran - Senior Software Developer",
     description:
-      "Senior Software Developer with 6+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies.",
+      "Senior Software Developer with 7+ years of experience in Java, Spring Boot, Microservices, and Cloud Technologies.",
   },
   generator: "v0.app",
 }
