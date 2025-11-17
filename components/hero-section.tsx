@@ -53,7 +53,7 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-muted-foreground mb-2 max-w-3xl mx-auto text-pretty"
           >
-            Back End Engineer
+            Software Engineer
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -61,7 +61,7 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-base text-muted-foreground mb-8 max-w-3xl mx-auto text-pretty"
           >
-            I build scalable and robust backend apps with Java, NodeJs, Spring Boot, Microservices, and Cloud
+            I build scalable and robust apps with Java, NodeJs, React, Python, Microservices, and Cloud
             Technologies
           </motion.p>
 

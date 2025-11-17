@@ -27,11 +27,11 @@ export function Footer() {
               </div>
               <div>
                 <h3 className="font-semibold text-foreground">Vaideeswaran Chandrasekaran</h3>
-                <p className="text-sm text-muted-foreground">Senior Software Developer</p>
+                <p className="text-sm text-muted-foreground">Senior Software Engineer</p>
               </div>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Building scalable solutions with Java, Spring Boot, Microservices, and Cloud Technologies.
+              Building scalable solutions with Java, NodeJs, React, Python, Microservices, and Cloud Technologies.
             </p>
           </div>
 

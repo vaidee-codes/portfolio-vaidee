@@ -96,7 +96,7 @@ export function ExperienceSection() {
         >
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Professional Experience</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">
-            7+ years of building scalable solutions across fintech, SaaS, and enterprise domains
+            7+ years of building scalable solutions across Saas, AI platforms, eCommerce, and Fintech domains
           </p>
         </motion.div>
 
